@@ -50,14 +50,6 @@ A modern platform connecting hosts & travelers for stays, homestays, and local e
 
 ---
 
-## 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ar-abhijeet&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
----
----
-
 ## ✨ Quote of the Day  
 > *“Code is like humor. When you have to explain it, it’s bad.”*
 
