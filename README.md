@@ -56,18 +56,6 @@ A modern platform connecting hosts & travelers for stays, homestays, and local e
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ar-abhijeet&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=ar-abhijeet&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ar-abhijeet&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 ## ✨ Quote of the Day  
@@ -80,7 +68,7 @@ A modern platform connecting hosts & travelers for stays, homestays, and local e
   <a href="https://www.linkedin.com/in/abhijeetxrao">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:abhijeetrao7800@gmail.com">
+  <a href="mailto:abhijeetxrao@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
