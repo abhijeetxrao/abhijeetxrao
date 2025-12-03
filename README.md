@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hey there, I'm Abhijeet Rao! 👋</h1>
+<h1 align="center">Hey there, I'm Abhijeet! 👋</h1>
 <h3 align="center">2nd Year CS Student • MERN Stack Developer • Tech Enthusiast</h3>
 
 ---
